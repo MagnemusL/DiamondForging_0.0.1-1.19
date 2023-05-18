@@ -7,7 +7,7 @@ public class ModCreativeModeTab {
     public static final CreativeModeTab DIAMONDFORGING_TAB = new CreativeModeTab("diamondtab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(ModItems.DIAMOND_PLATE.get());
+            return new ItemStack(ModItems.DIAMOND_SHEET.get());
         }
     };
 }

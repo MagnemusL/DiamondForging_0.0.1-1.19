@@ -11,11 +11,14 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, DiamondForging.MOD_ID);
 
-    public static final RegistryObject<Item> DIAMOND_PLATE = ITEMS.register("diamond_plate",
+    public static final RegistryObject<Item> DIAMOND_SHEET = ITEMS.register("diamond_sheet",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
     public static final RegistryObject<Item> DIAMOND_ROD = ITEMS.register("diamond_rod",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
 
+    public static final RegistryObject<Item> GLOWING_DIAMOND_SHEET = ITEMS.register("glowing_diamond_sheet",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
 
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

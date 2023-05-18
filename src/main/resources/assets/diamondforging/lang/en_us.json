@@ -1,6 +1,8 @@
 {
-  "item.diamondforging.diamond_plate": "Diamond Plate",
+  "item.diamondforging.diamond_sheet": "Diamond Sheet",
   "item.diamondforging.diamond_rod": "Diamond Rod",
+    "item.diamondforging.glowing_diamond_sheet": "Glowing Diamond Sheet",
+
 
   "itemGroup.diamondtab": "Diamond Forging Tab"
 }
