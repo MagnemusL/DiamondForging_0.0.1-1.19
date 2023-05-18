@@ -1,7 +1,11 @@
 {
   "item.diamondforging.diamond_sheet": "Diamond Sheet",
   "item.diamondforging.diamond_rod": "Diamond Rod",
-    "item.diamondforging.glowing_diamond_sheet": "Glowing Diamond Sheet",
+  "item.diamondforging.glowing_diamond_sheet": "Glowing Diamond Sheet",
+
+  "block.diamondforging.diamond_bricks": "Diamond Bricks",
+  "block.diamondforging.diamond_xp_orb": "Diamond XP Orb",
+  "block.diamondforging.glowing_diamond_bricks": "Glowing Diamond Bricks",
 
 
   "itemGroup.diamondtab": "Diamond Forging Tab"

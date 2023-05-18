@@ -1,6 +1,7 @@
 package net.magne.diamondforging;
 
 import com.mojang.logging.LogUtils;
+import net.magne.diamondforging.block.ModBlocks;
 import net.magne.diamondforging.item.ModItems;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -20,6 +21,7 @@ public class DiamondForging {
          IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
          ModItems.register(modEventBus);
+         ModBlocks.register(modEventBus);
 
          modEventBus.addListener(this::commonSetup);
 
