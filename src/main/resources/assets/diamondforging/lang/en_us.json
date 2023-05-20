@@ -9,10 +9,19 @@
   "item.diamondforging.glowing_diamond_sphere": "Glowing Diamond Sphere",
   "item.diamondforging.glowing_diamond": "Glowing Diamond",
   "item.diamondforging.eight_ball": "Eight Ball",
+  "item.diamondforging.raw_titanium": "Raw Titanium",
+  "item.diamondforging.titanium_ingot": "Titanium Ingot",
+  "item.diamondforging.titanium_sheet": "Titanium Sheet",
+  "item.diamondforging.titanium_rod": "Titanium Rod",
+  "item.diamondforging.titanium_wire": "Titanium Wire",
+  "item.diamondforging.titanium_sphere": "Titanium Sphere",
 
   "block.diamondforging.diamond_bricks": "Diamond Bricks",
   "block.diamondforging.diamond_xp_orb": "Diamond XP Orb",
   "block.diamondforging.glowing_diamond_bricks": "Glowing Diamond Bricks",
+  "block.diamondforging.titanium_block": "Block Of Titanium",
+  "block.diamondforging.titanium_ore": "Titanium Ore",
+  "block.diamondforging.deepslate_titanium_ore": "Deepslate Titanium Ore",
 
 
   "itemGroup.diamondtab": "Diamond Forging Tab"

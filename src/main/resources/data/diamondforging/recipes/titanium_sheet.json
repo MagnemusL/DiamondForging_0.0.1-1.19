@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "diamondforging:titanium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "diamondforging:titanium_sheet"
+    }
+  ]
+}

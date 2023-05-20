@@ -3,6 +3,8 @@
   "values": [
     "diamondforging:diamond_bricks",
     "diamondforging:glowing_diamond_bricks",
-    "diamondforging:diamond_xp_orb"
+    "diamondforging:diamond_xp_orb",
+    "diamondforging:titanium_ore",
+    "diamondforging:deepslate_titanium_ore"
   ]
 }

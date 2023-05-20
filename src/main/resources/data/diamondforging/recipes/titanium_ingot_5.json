@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "diamondforging:raw_titanium"
+  },
+  "result": "diamondforging:titanium_ingot"
+}

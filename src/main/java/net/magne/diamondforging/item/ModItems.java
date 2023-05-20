@@ -38,6 +38,25 @@ public class ModItems {
 
     public static final RegistryObject<Item> GLOWING_DIAMOND = ITEMS.register("glowing_diamond",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
+    public static final RegistryObject<Item> RAW_TITANIUM = ITEMS.register("raw_titanium",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
+    public static final RegistryObject<Item> TITANIUM_SHEET = ITEMS.register("titanium_sheet",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
+    public static final RegistryObject<Item> TITANIUM_ROD = ITEMS.register("titanium_rod",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
+    public static final RegistryObject<Item> TITANIUM_WIRE = ITEMS.register("titanium_wire",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
+    public static final RegistryObject<Item> TITANIUM_INGOT = ITEMS.register("titanium_ingot",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
+    public static final RegistryObject<Item> TITANIUM_SPHERE = ITEMS.register("titanium_sphere",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB)));
+
     public static final RegistryObject<Item> EIGHT_BALL = ITEMS.register("eight_ball",
             () -> new EightBallItem(new Item.Properties().tab(ModCreativeModeTab.DIAMONDFORGING_TAB).stacksTo(1)));
 

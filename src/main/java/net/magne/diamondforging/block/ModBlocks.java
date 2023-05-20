@@ -25,13 +25,30 @@ public class ModBlocks {
     public static final RegistryObject<Block> DIAMOND_BRICKS = registerBlock("diamond_bricks",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.DIAMONDFORGING_TAB);
+
     public static final RegistryObject<Block> GLOWING_DIAMOND_BRICKS = registerBlock("glowing_diamond_bricks",
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
                     .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.DIAMONDFORGING_TAB);
+
+    public static final RegistryObject<Block> TITANIUM_BLOCK = registerBlock("titanium_block",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE)
+                    .strength(2f).requiresCorrectToolForDrops()), ModCreativeModeTab.DIAMONDFORGING_TAB);
+
     public static final RegistryObject<Block> DIAMOND_XP_ORB = registerBlock("diamond_xp_orb",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
                     .strength(6f).requiresCorrectToolForDrops(),
                     UniformInt.of(3, 7)), ModCreativeModeTab.DIAMONDFORGING_TAB);
+
+    public static final RegistryObject<Block> TITANIUM_ORE = registerBlock("titanium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.DIAMONDFORGING_TAB);
+
+    public static final RegistryObject<Block> DEEPSLATE_TITANIUM_ORE = registerBlock("deepslate_titanium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.HEAVY_METAL)
+                    .strength(6f).requiresCorrectToolForDrops(),
+                    UniformInt.of(3, 7)), ModCreativeModeTab.DIAMONDFORGING_TAB);
+
 
 
 
