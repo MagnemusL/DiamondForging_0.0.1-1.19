@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+
+  ],
+  "key": {
+    "#": {
+      "item": "diamondforging:glowing_diamond_sheet"
+    }
+  },
+  "result": {
+    "item": "diamondforging:glowing_diamond_bricks"
+  }
+}

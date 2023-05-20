@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "diamondforging:glowing_diamond"
+  },
+  "result": "diamondforging:glowing_diamond_sphere"
+}

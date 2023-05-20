@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "diamondforging:diamond_bricks",
+    "diamondforging:glowing_diamond_bricks",
+    "diamondforging:diamond_xp_orb"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "diamondforging:diamond_sheet"
+  },
+  "result": "diamondforging:diamond_rod"
+}

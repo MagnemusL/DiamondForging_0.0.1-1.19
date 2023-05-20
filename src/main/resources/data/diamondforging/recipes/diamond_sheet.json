@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "results": [
+    {
+      "item": "diamondforging:diamond_sheet"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+
+  ],
+  "key": {
+    "#": {
+      "item": "diamondforging:diamond_sheet"
+    }
+  },
+  "result": {
+    "item": "diamondforging:diamond_bricks"
+  }
+}

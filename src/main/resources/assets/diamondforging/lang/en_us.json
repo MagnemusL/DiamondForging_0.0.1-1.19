@@ -2,6 +2,13 @@
   "item.diamondforging.diamond_sheet": "Diamond Sheet",
   "item.diamondforging.diamond_rod": "Diamond Rod",
   "item.diamondforging.glowing_diamond_sheet": "Glowing Diamond Sheet",
+  "item.diamondforging.glowing_diamond_rod": "Glowing Diamond Rod",
+  "item.diamondforging.diamond_wire": "Diamond Wire",
+  "item.diamondforging.glowing_diamond_wire": "Glowing Diamond Wire",
+  "item.diamondforging.diamond_sphere": "Diamond Sphere",
+  "item.diamondforging.glowing_diamond_sphere": "Glowing Diamond Sphere",
+  "item.diamondforging.glowing_diamond": "Glowing Diamond",
+  "item.diamondforging.eight_ball": "Eight Ball",
 
   "block.diamondforging.diamond_bricks": "Diamond Bricks",
   "block.diamondforging.diamond_xp_orb": "Diamond XP Orb",
